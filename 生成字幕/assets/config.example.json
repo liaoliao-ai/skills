@@ -1,0 +1,7 @@
+{
+  "version": "new",
+  "api_key": "your-api-key-here",
+  "api_url": "https://openspeech.bytedance.com/api/v3/auc/bigmodel/recognize/flash",
+  "resource_id": "volc.bigasr.auc_turbo",
+  "model_name": "bigmodel"
+}
